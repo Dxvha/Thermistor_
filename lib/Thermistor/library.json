@@ -1,0 +1,20 @@
+{
+    "name": "Thermistance",
+    "version": "1.0.0",
+    "description": "A \"Thermistance\" program is a computer program that outputs \"the temperature of the thermistor\" on a display device",
+    "keywords": "temperature, value",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/username/hello-world.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Romain BARTHOLME",
+        "email": "Dxvhaa@gmail.com"
+        
+      }
+      
+    ]
+}
